@@ -1,7 +1,7 @@
 ### Hi there, I'm Yasin 👋
 
 
-#### I'm a Computer Engineering Student!
+### I'm a Computer Engineering Student!
 
 - 📱 I published an Android app on Google Play: [Go to Google Play page][googleplay]! | [Go its repository][maskrepo]
 - 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
