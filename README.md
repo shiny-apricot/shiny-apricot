@@ -38,6 +38,8 @@
 
 ---
 
+### 📕 Latest Blog Posts
+
 - [Artificial Intelligence in 5G Networks](https://drive.google.com/file/d/1rCZ85fyYsmx0oyBK1HDrsJPjStFmX4rZ/view?usp=sharing)
 - [Economic Devastation as a Result of Covid-19](https://drive.google.com/file/d/13se6FeR0Hil8pKww47n9J4TaAkKRI2Ou/view?usp=sharing)
 
