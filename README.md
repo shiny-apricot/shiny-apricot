@@ -6,8 +6,6 @@
 - 📱 I published an Android app on Google Play: [Go to Google Play page][googleplay]! | [Go its repository][maskrepo]
 - 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
 - 🔥 [My Machine Learning Repository][ml] 
-- 🥅 2021 Goals: Surviving 2021
-- 🥅 Real 2021 Goals: Developing an AI for drones to make them follow an object in real life conditions.
 
 ### My Resume
 
