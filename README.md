@@ -1,22 +1,18 @@
 ### Hi there, I'm Yasin 👋
 
-</br>
 
 ### I'm a Computer Engineering Student!
 
-</br>
 
 - 📱 I published an Android app on Google Play: [Go to Google Play page][googleplay]! | [Go its repository][maskrepo]
 - 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
 - 🔥 [My Machine Learning Repository][ml]
   
-</br>
 
 ## My Resume
 
 - 📃[**Click Here to See My CV**][resume]
 
-</br>
 </br>
 
 ## 📕 Latest Blog Posts
@@ -32,7 +28,6 @@
 [ml]: https://github.com/shiny-apricot/My-Machine-Learning-Works
 [maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
 
-<br />
 
 ## 📢 My LinkedIn Posts:
 - [We Organized an "**Introduction to AI**" Event in Our University. **I Had an Opportunity to be a Speaker in the Event**.][aievent]
