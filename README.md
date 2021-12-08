@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
 - 🔥 [My Machine Learning Repository][ml]
 - 📋 [Check Our Alumni Membership System Repo [Flask][Heroku][PostgreSQL]](https://github.com/shiny-apricot/alumni-membership-system)
-  
+- 💱 [Check Out Our DEMO Crypto Currency Tracking and Investing App [Flutter][Dart][Firebase]](https://github.com/shiny-apricot/CryptoApp)
 
 ## My Resume
 
