@@ -1,22 +1,58 @@
 ### Hi there, I'm Yasin 👋
 
+</br>
 
 ### I'm a Computer Engineering Student!
 
+</br>
+
 - 📱 I published an Android app on Google Play: [Go to Google Play page][googleplay]! | [Go its repository][maskrepo]
 - 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
-- 🔥 [My Machine Learning Repository][ml] 
+- 🔥 [My Machine Learning Repository][ml]
+  
+</br>
 
-### My Resume
+## My Resume
 
-- 📃[Click Here to Go My Resume][resume]
+- 📃[**Click Here to See My CV**][resume]
+
+</br>
+</br>
+
+## 📕 Latest Blog Posts
+
+- [**Artificial Intelligence in 5G Networks**](https://drive.google.com/file/d/1rCZ85fyYsmx0oyBK1HDrsJPjStFmX4rZ/view?usp=sharing)
+- [**Economic Devastation as a Result of Covid-19**](https://drive.google.com/file/d/13se6FeR0Hil8pKww47n9J4TaAkKRI2Ou/view?usp=sharing)
+
+
+[instagram]: https://www.instagram.com/yas.in.al/
+[linkedin]: https://www.linkedin.com/in/yasin-inal-abb41876/
+[resume]: https://drive.google.com/file/d/1Pf2DvZpRkOOPRP7W3dDT1nPtxG7y1b1z/view?usp=sharing
+[googleplay]: https://play.google.com/store/apps/details?id=com.apricot.maskreminder
+[ml]: https://github.com/shiny-apricot/My-Machine-Learning-Works
+[maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
+
+<br />
+
+## 📢 My LinkedIn Posts:
+- [We Organized an "**Introduction to AI**" Event in Our University. **I Had an Opportunity to be a Speaker in the Event**.][aievent]
+- [I have attended my first **Datathon** event that includes many **professional participants from the sector**.][datathonevent]
+- [I Developed a **Plate Recognition System** by Using Transfer Learning Method and Applied Text-Recognition Additionally.][platerecog]
+
+[aievent]: https://www.linkedin.com/posts/yasin-inal-abb41876_ml-ai-event-activity-6872982045581172737-VbGL
+[datathonevent]: https://www.linkedin.com/posts/yasin-inal-abb41876_data-ml-ai-activity-6863455358287917056-J66a
+[platerecog]: https://www.linkedin.com/posts/yasin-inal-abb41876_tensorflow-kaggle-learning-activity-6855841359903920128-d4VX
+---
+
+
+</br>
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+</br>
 
 ### Languages and Tools:
 
@@ -30,28 +66,3 @@
 <img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/files/tw/370888/svg/370888.svg"/>
 <img align="left" alt="Native Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-
----
-
-### 📕 Latest Blog Posts
-
-- [Artificial Intelligence in 5G Networks](https://drive.google.com/file/d/1rCZ85fyYsmx0oyBK1HDrsJPjStFmX4rZ/view?usp=sharing)
-- [Economic Devastation as a Result of Covid-19](https://drive.google.com/file/d/13se6FeR0Hil8pKww47n9J4TaAkKRI2Ou/view?usp=sharing)
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shiny-apricot&show_icons=true&hide_border=true" />
-
-</details>
-
-[instagram]: https://www.instagram.com/yas.in.al/
-[linkedin]: https://www.linkedin.com/in/yasin-inal-abb41876/
-[resume]: https://drive.google.com/file/d/1-k3XfdwGkj0MzYWqXGhF2sXmHECgIBFt/view?usp=sharing
-[googleplay]: https://play.google.com/store/apps/details?id=com.apricot.maskreminder
-[ml]: https://github.com/shiny-apricot/My-Machine-Learning-Works
-[maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
