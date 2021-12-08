@@ -7,7 +7,7 @@
 - 📱 I published an Android app on Google Play: [Go to Google Play page][googleplay]! | [Go its repository][maskrepo]
 - 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
 - 🔥 [My Machine Learning Repository][ml]
-- [Check Our Alumni Membership System Repo [Flask][Heroku][PostgreSQL]](https://github.com/shiny-apricot/alumni-membership-system)
+- 📋 [Check Our Alumni Membership System Repo [Flask][Heroku][PostgreSQL]](https://github.com/shiny-apricot/alumni-membership-system)
   
 
 ## My Resume
