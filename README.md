@@ -13,7 +13,6 @@
 
 - 📃[**Click Here to See My CV**][resume]
 
-</br>
 
 ## 📕 Latest Blog Posts
 
