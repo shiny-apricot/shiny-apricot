@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog Posts
 
-- [**Artificial Intelligence in 5G Networks**](https://www.researchgate.net/publication/356879235_Artificial_Intelligence_in_5G_Networks)
+- [**Artificial Intelligence in 5G Networks [Literature Review Article]**](https://www.researchgate.net/publication/356879235_Artificial_Intelligence_in_5G_Networks)
 - [**Economic Devastation as a Result of Covid-19**](https://drive.google.com/file/d/13se6FeR0Hil8pKww47n9J4TaAkKRI2Ou/view?usp=sharing)
 
 
