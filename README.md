@@ -23,7 +23,7 @@
 
 [instagram]: https://www.instagram.com/yas.in.al/
 [linkedin]: https://www.linkedin.com/in/yasin-inal-abb41876/
-[resume]: https://drive.google.com/file/d/163ODTwq8238dcsewlgNHk5LXOccPMYbE/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1H7d9qn99Wr3RG5nuQ33UW-M644kYwxH9/view?usp=sharing
 [googleplay]: https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 [ml]: https://github.com/shiny-apricot/My-Machine-Learning-Works
 [maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
