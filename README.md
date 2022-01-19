@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
 - 🔥 [My Machine Learning Repository][ml]
 - 📋 [Check Our Alumni Membership System Repo [Flask][Heroku][PostgreSQL]](https://github.com/shiny-apricot/alumni-membership-system)
-- 💱 [Check Out Our DEMO Crypto Currency Tracking and Investing App [Flutter][Dart][Firebase]](https://github.com/shiny-apricot/CryptoApp)
+- 💸📊 [Check Out Our Demo "Crypto Currency Tracking and Investing App" Repo [Flutter][Dart][Firebase]](https://github.com/shiny-apricot/CryptoApp)
 
 ## My Resume
 
@@ -23,7 +23,11 @@
 
 [instagram]: https://www.instagram.com/yas.in.al/
 [linkedin]: https://www.linkedin.com/in/yasin-inal-abb41876/
+<<<<<<< HEAD
 [resume]: https://drive.google.com/file/d/1H7d9qn99Wr3RG5nuQ33UW-M644kYwxH9/view?usp=sharing
+=======
+[resume]: https://drive.google.com/file/d/1j0NTnMHuFy18sI9777dXwrs_ai50dec_/view?usp=sharing
+>>>>>>> 38b31e33a73fd7eec8da61409319d88f9202d455
 [googleplay]: https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 [ml]: https://github.com/shiny-apricot/My-Machine-Learning-Works
 [maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
