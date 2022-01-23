@@ -12,9 +12,9 @@
 
 ## My Resume
 
-- 📃[**Click Here to See My CV**][resume]
-
-
+- [**See My CV**][resume]
+- [**My StackOverFlow Profile**][sof]
+- [**My LinkedIn Page**][linkedin]
 ## 📕 Latest Blog Posts
 
 - [**Artificial Intelligence in 5G Networks [Literature Review Article]**](https://www.researchgate.net/publication/356879235_Artificial_Intelligence_in_5G_Networks)
@@ -27,7 +27,7 @@
 [googleplay]: https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 [ml]: https://github.com/shiny-apricot/My-Machine-Learning-Works
 [maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
-
+[sof]: https://stackoverflow.com/users/10795605/sirius-bey
 
 ## 📢 My LinkedIn Posts:
 - [We Organized an "**Introduction to AI**" Event in Our University. **I Had an Opportunity to be a Speaker in the Event**.][aievent]
@@ -38,8 +38,6 @@
 [datathonevent]: https://www.linkedin.com/posts/yasin-inal-abb41876_data-ml-ai-activity-6863455358287917056-J66a
 [platerecog]: https://www.linkedin.com/posts/yasin-inal-abb41876_tensorflow-kaggle-learning-activity-6855841359903920128-d4VX
 ---
-
-
 </br>
 
 ### Connect with me:
