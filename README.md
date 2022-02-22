@@ -3,10 +3,9 @@
 
 ### I'm a Computer Engineering Student!
 ---
-- 📖 [**Here is Our LEARNING  ASSISTANT PROJECT:** kucukdev.org](https://kucukdev.org/) 
+- 📖 [**Here is Our LEARNING  ASSISTANT PROJECT: kucukdev.org**](https://kucukdev.org/) 
   - [**Click to go its public repository**](https://github.com/hbusul/kucukdev_api)
   - **[Docker]-[FastAPI]-[MongoDB]**
-</br>
 ---
 - 📱 **I published an Android app on Google Play:** 
   - **[Google Play page][googleplay]**! 
