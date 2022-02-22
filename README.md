@@ -2,14 +2,25 @@
 
 
 ### I'm a Computer Engineering Student!
-
-
-- 📱 I published an Android app on Google Play: [Go to Google Play page][googleplay]! | [Go its repository][maskrepo]
-- 🌱 I’m currently learning many things, but especially embraced Machine Learning :)
-- 🔥 [My Machine Learning Repository][ml]
-- 📋 [Check Our Alumni Membership System Repo [Flask][Heroku][PostgreSQL]](https://github.com/shiny-apricot/alumni-membership-system)
-- 💱 [Check Out Our DEMO Crypto Currency Tracking and Investing App [Flutter][Dart][Firebase]](https://github.com/shiny-apricot/CryptoApp)
-
+---
+- 📖 [**Here is Our LEARNING  ASSISTANT PROJECT:** kucukdev.org](https://kucukdev.org/) 
+  - [**Click to go its public repository**](https://github.com/hbusul/kucukdev_api)
+  - **[Docker]-[FastAPI]-[MongoDB]**
+</br>
+---
+- 📱 **I published an Android app on Google Play:** 
+  - **[Google Play page][googleplay]**! 
+  - **[Go its repository][maskrepo]**
+  - **[Native-Android]-[Kotlin]**
+---
+- 🔥 [**My Machine Learning Repository**][ml]
+---
+- 📋 [**Check Our Alumni Membership System Repo**](https://github.com/shiny-apricot/alumni-membership-system)
+  - **[Flask]-[Heroku]-[PostgreSQL]**
+---
+- 💱 [**Check Out Our Crypto Currency Tracking App**](https://github.com/shiny-apricot/CryptoApp)
+  - **[Flutter]-[Dart]-[Firebase]**
+---
 ## My Resume
 
 - [**See My CV**][resume]
