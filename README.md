@@ -23,7 +23,8 @@
 ---
 ## My Resume
 
-- [**See My CV**][resume]
+- [**See My Artificial Intelligence CV**][resumeAI]
+- [**See My Backend CV**][resumeBackend]
 - [**My StackOverFlow Profile**][sof]
 - [**My LinkedIn Page**][linkedin]
 ## 📕 Latest Blog Posts
@@ -34,7 +35,8 @@
 
 [instagram]: https://www.instagram.com/yas.in.al/
 [linkedin]: https://www.linkedin.com/in/yasin-inal-abb41876/
-[resume]: https://drive.google.com/file/d/1ewbbKps8jpC2Ufu201VavevuBOz-BnZI/view?usp=sharing
+[resumeAI]: https://drive.google.com/file/d/1d5uv3o9JOsb6p3UAzDzgJH7ninu4YK-9/view?usp=sharing
+[resumeBackend]: https://drive.google.com/file/d/1gp-_4evm7oCjiu4WuUCyHn_1HjrC8DCx/view?usp=sharing
 [googleplay]: https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 [ml]: https://github.com/shiny-apricot/My-Machine-Learning-Works
 [maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
