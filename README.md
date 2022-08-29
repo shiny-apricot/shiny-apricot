@@ -5,26 +5,27 @@
 ---
 - 📖 [**Here is Our LEARNING  ASSISTANT PROJECT: kucukdev.org**](https://kucukdev.org/) 
   - [**Click to go its public repository**](https://github.com/hbusul/kucukdev_api)
-  - **[Docker & FastAPI & MongoDB]**
+  - **Docker & FastAPI & MongoDB**
 
 - 📱 **[I published an Android app on Google Play:][maskrepo]** 
   - **[Google Play page][googleplay]**! 
   - **[Go its repository][maskrepo]**
-  - **[Native-Android & Kotlin]**
+  - **Native-Android & Kotlin**
 
 - 🔥 [**My Machine Learning Repository**][ml]
 
 - 📋 [**Check Our Alumni Membership System Repo**](https://github.com/shiny-apricot/alumni-membership-system)
-  - **[Flask & Heroku & PostgreSQL]**
+  - **Flask & Heroku & PostgreSQL**
 
 - 💱 [**Check Out Our Crypto Currency Tracking App**](https://github.com/shiny-apricot/CryptoApp)
-  - **[Flutter & Dart & Firebase]**
+  - **Flutter & Dart & Firebase**
  
 ---
-## My Resume
+## My Pages
 
 - [**My StackOverFlow Profile**][sof]
 - [**My LinkedIn Page**][linkedin]
+- 
 ## 📕 Latest Blog Posts
 
 - [**Artificial Intelligence in 5G Networks [Literature Review Article]**](https://www.researchgate.net/publication/356879235_Artificial_Intelligence_in_5G_Networks)
