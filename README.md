@@ -23,8 +23,6 @@
 ---
 ## My Resume
 
-- [**See My Artificial Intelligence CV**][resumeAI]
-- [**See My Backend CV**][resumeBackend]
 - [**My StackOverFlow Profile**][sof]
 - [**My LinkedIn Page**][linkedin]
 ## 📕 Latest Blog Posts
