@@ -3,7 +3,7 @@
 
 ### I'm a Computer Engineering Student!
 ---
-- 📖 [**Here is Our LEARNING  ASSISTANT PROJECT: kucukdev.org**](https://kucukdev.org/) 
+- 📖 [**Our Learning Assistant Project: kucukdev.org**](https://kucukdev.org/) 
   - [**Click to go its public repository**](https://github.com/hbusul/kucukdev_api)
   - **Docker & FastAPI & MongoDB**
 
