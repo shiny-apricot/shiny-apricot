@@ -41,11 +41,6 @@
 [maskrepo]: https://github.com/shiny-apricot/Mask_Reminder
 [sof]: https://stackoverflow.com/users/10795605/sirius-bey
 
-## 📢 My LinkedIn Posts:
-- [We Organized an "**Introduction to AI**" Event in Our University. **I Had an Opportunity to be a Speaker in the Event**.][aievent]
-- [I have attended my first **Datathon** event that includes many **professional participants from the sector**.][datathonevent]
-- [I Developed a **Plate Recognition System** by Using Transfer Learning Method and Applied Text-Recognition Additionally.][platerecog]
-
 [aievent]: https://www.linkedin.com/posts/yasin-inal-abb41876_ml-ai-event-activity-6872982045581172737-VbGL
 [datathonevent]: https://www.linkedin.com/posts/yasin-inal-abb41876_data-ml-ai-activity-6863455358287917056-J66a
 [platerecog]: https://www.linkedin.com/posts/yasin-inal-abb41876_tensorflow-kaggle-learning-activity-6855841359903920128-d4VX
