@@ -1,11 +1,24 @@
 ### Hi there, I'm Yasin 👋
 
 
-### I'm a Computer Engineering Student!
+### I'm a Senior Computer Engineering Student!
 ---
+
+## My Pages
+
+- [**My StackOverFlow Profile**][sof]
+- [**My LinkedIn Page**][linkedin]
+
+## 📕 Latest Blog Posts
+
+- [**Artificial Intelligence in 5G Networks [Literature Review Article]**](https://www.researchgate.net/publication/356879235_Artificial_Intelligence_in_5G_Networks)
+- [**Economic Devastation as a Result of Covid-19**](https://drive.google.com/file/d/13se6FeR0Hil8pKww47n9J4TaAkKRI2Ou/view?usp=sharing)
+
 - 📖 [**Our Learning Assistant Project: kucukdev.org**](https://kucukdev.org/) 
   - [**Click to go its public repository**](https://github.com/hbusul/kucukdev_api)
   - **Docker & FastAPI & MongoDB**
+
+---
 
 - 📱 **[I published an Android app on Google Play:][maskrepo]** 
   - **[Google Play page][googleplay]**! 
@@ -20,17 +33,6 @@
 - 💱 [**Check Out Our Crypto Currency Tracking App**](https://github.com/shiny-apricot/CryptoApp)
   - **Flutter & Dart & Firebase**
  
----
-## My Pages
-
-- [**My StackOverFlow Profile**][sof]
-- [**My LinkedIn Page**][linkedin]
-- 
-## 📕 Latest Blog Posts
-
-- [**Artificial Intelligence in 5G Networks [Literature Review Article]**](https://www.researchgate.net/publication/356879235_Artificial_Intelligence_in_5G_Networks)
-- [**Economic Devastation as a Result of Covid-19**](https://drive.google.com/file/d/13se6FeR0Hil8pKww47n9J4TaAkKRI2Ou/view?usp=sharing)
-
 
 [instagram]: https://www.instagram.com/yas.in.al/
 [linkedin]: https://www.linkedin.com/in/yasin-inal-abb41876/
